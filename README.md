@@ -2,7 +2,7 @@
 - 👀 I’m a Web and Mobile dev
 - 🌱 I’m currently building projects with Nextjs & ReactNative
 - 📫 How to reach me:
-   - @AdebolaAdeyombo on Twitter
+   - [@AdebolaAdeyombo](https://twitter.com/AdebolaAdeyombo) on Twitter
    - [Adebola Adeyombo](https://www.linkedin.com/in/adeyombo) on LinkedIn
    - [Portfolio site](https://adebola.netlify.app/)
 
